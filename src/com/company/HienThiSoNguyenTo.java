@@ -10,7 +10,7 @@ public class HienThiSoNguyenTo {
             System.out.println(i);
             count += 1;
             }
-            if (count == 20) break; //hiển thị 20 số nguyên tố đầu tiên
+            if (count == 20) break; //hiển thị 20 số nguyên tố đầu
         }
     }
     public static boolean SNT(int n){
